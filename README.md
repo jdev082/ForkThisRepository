@@ -1,2 +1,2 @@
-# ForkThisRepository
-You should fork this repository, no reason, just fork it!
+# DontForkThisRepository
+You shouldn't fork this repository, no reason, just don't fork it!
